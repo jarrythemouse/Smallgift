@@ -1,0 +1,52 @@
+@media screen and  (max-width:789px){
+    .nav-list{
+        flex-direction: column;
+        text-align: center;
+        display: block;
+    }
+    .navbar{
+        flex-direction: column;
+        color: black;
+       background: none;
+       
+
+    }
+
+    .rightnav{
+        text-align: center;
+
+        
+    }
+    #search {
+        width: 20%;
+    }
+    .h-nav-resp{
+        height: 72px;
+        background-color: black;
+    }
+    .burger{
+        display: block;
+    }
+    .background{
+        background-position: center;
+        align-items: center;
+        background-repeat: no-repeat;
+        
+
+    }
+    .nav-list{
+        display: none;
+    }
+    .text{
+        font-size:medium;
+        color: black;
+        padding-top:2px;
+        margin: 2px;
+        box-sizing: border-box;
+        
+        
+        
+    }
+       
+    
+}
